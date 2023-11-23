@@ -23,6 +23,9 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/ruby/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 60 | 77.52
+| 0033 |[Search in Rotated Sorted Array](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 59 | 74.85
+| 0074 |[Search a 2D Matrix](src/main/ruby/g0001_0100/s0074_search_a_2d_matrix)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 50 | 97.83
 
 #### Day 2 Binary Search
 
@@ -65,11 +68,13 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0078 |[Subsets](src/main/ruby/g0001_0100/s0078_subsets)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 63 | 70.43
 
 #### Day 10 Recursion Backtracking
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/ruby/g0001_0100/s0039_combination_sum)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 79 | 74.84
 
 #### Day 11 Recursion Backtracking
 
@@ -77,16 +82,20 @@
 |-|-|-|-|-|-
 | 0017 |[Letter Combinations of a Phone Number](src/main/ruby/g0001_0100/s0017_letter_combinations_of_a_phone_number)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 49 | 93.94
 | 0022 |[Generate Parentheses](src/main/ruby/g0001_0100/s0022_generate_parentheses)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 43 | 100.00
+| 0079 |[Word Search](src/main/ruby/g0001_0100/s0079_word_search)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 56 | 100.00
 
 #### Day 12 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0055 |[Jump Game](src/main/ruby/g0001_0100/s0055_jump_game)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 88 | 95.88
 
 #### Day 13 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0045 |[Jump Game II](src/main/ruby/g0001_0100/s0045_jump_game_ii)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 68 | 75.23
+| 0062 |[Unique Paths](src/main/ruby/g0001_0100/s0062_unique_paths)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 50 | 91.92
 
 #### Day 14 Dynamic Programming
 
@@ -113,6 +122,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0072 |[Edit Distance](src/main/ruby/g0001_0100/s0072_edit_distance)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 139 | 73.91
 
 #### Day 19 Bit Manipulation
 
@@ -140,6 +150,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/ruby/g0001_0100/s0035_search_insert_position)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 48 | 97.37
 
 #### Day 3
 
@@ -155,6 +166,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/ruby/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 60 | 77.52
 
 #### Day 6
 
@@ -170,6 +182,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0074 |[Search a 2D Matrix](src/main/ruby/g0001_0100/s0074_search_a_2d_matrix)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 50 | 97.83
 
 #### Day 9
 
@@ -185,6 +198,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 59 | 74.85
 
 #### Day 12
 
@@ -304,6 +318,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/ruby/g0001_0100/s0070_climbing_stairs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 48 | 96.01
 
 #### Day 3
 
@@ -314,11 +329,14 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0055 |[Jump Game](src/main/ruby/g0001_0100/s0055_jump_game)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 88 | 95.88
+| 0045 |[Jump Game II](src/main/ruby/g0001_0100/s0045_jump_game_ii)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 68 | 75.23
 
 #### Day 5
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0053 |[Maximum Subarray](src/main/ruby/g0001_0100/s0053_maximum_subarray)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 125 | 81.22
 
 #### Day 6
 
@@ -329,6 +347,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 147 | 80.21
 
 #### Day 8
 
@@ -339,6 +358,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0042 |[Trapping Rain Water](src/main/ruby/g0001_0100/s0042_trapping_rain_water)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 69 | 80.74
 
 #### Day 10
 
@@ -349,6 +369,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0096 |[Unique Binary Search Trees](src/main/ruby/g0001_0100/s0096_unique_binary_search_trees)| Medium | Top_100_Liked_Questions, Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(1) | 57 | 61.54
 
 #### Day 12
 
@@ -369,11 +390,13 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0062 |[Unique Paths](src/main/ruby/g0001_0100/s0062_unique_paths)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 50 | 91.92
 
 #### Day 16
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0064 |[Minimum Path Sum](src/main/ruby/g0001_0100/s0064_minimum_path_sum)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 78 | 52.50
 
 #### Day 17
 
@@ -390,6 +413,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0072 |[Edit Distance](src/main/ruby/g0001_0100/s0072_edit_distance)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 139 | 73.91
 
 #### Day 20
 
@@ -452,6 +476,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0104 |[Maximum Depth of Binary Tree](src/main/ruby/g0101_0200/s0104_maximum_depth_of_binary_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 55 | 96.72
 
 #### Day 11 Containers and Libraries
 
@@ -499,6 +524,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0048 |[Rotate Image](src/main/ruby/g0001_0100/s0048_rotate_image)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 50 | 93.64
 
 #### Day 8
 
@@ -519,6 +545,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0049 |[Group Anagrams](src/main/ruby/g0001_0100/s0049_group_anagrams)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 154 | 83.69
 
 #### Day 12
 
@@ -717,11 +744,13 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 147 | 80.21
 
 #### Day 6 Tree
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/ruby/g0101_0200/s0102_binary_tree_level_order_traversal)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 66 | 76.43
 
 #### Day 7 Binary Search
 
@@ -732,6 +761,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0098 |[Validate Binary Search Tree](src/main/ruby/g0001_0100/s0098_validate_binary_search_tree)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 68 | 70.23
 
 #### Day 9 Graph/BFS/DFS
 
@@ -742,11 +772,13 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/ruby/g0001_0100/s0070_climbing_stairs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 48 | 96.01
 
 #### Day 11 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0062 |[Unique Paths](src/main/ruby/g0001_0100/s0062_unique_paths)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Big_O_Time_O(m\*n)_Space_O(m\*n) | 50 | 91.92
 
 #### Day 12 Sliding Window/Two Pointer
 
@@ -811,6 +843,8 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0074 |[Search a 2D Matrix](src/main/ruby/g0001_0100/s0074_search_a_2d_matrix)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 50 | 97.83
+| 0033 |[Search in Rotated Sorted Array](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 59 | 74.85
 
 #### Day 9 Binary Search Tree
 
@@ -842,11 +876,13 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0003 |[Longest Substring Without Repeating Characters](src/main/ruby/g0001_0100/s0003_longest_substring_without_repeating_characters)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 94 | 85.62
+| 0076 |[Minimum Window Substring](src/main/ruby/g0001_0100/s0076_minimum_window_substring)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(s.length())_Space_O(1) | 175 | 93.33
 
 #### Day 15 Tree
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0101 |[Symmetric Tree](src/main/ruby/g0101_0200/s0101_symmetric_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 58 | 91.34
 
 #### Day 16 Design
 
@@ -857,6 +893,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0056 |[Merge Intervals](src/main/ruby/g0001_0100/s0056_merge_intervals)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 103 | 74.70
 
 #### Day 18 Stack
 
@@ -872,6 +909,8 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0039 |[Combination Sum](src/main/ruby/g0001_0100/s0039_combination_sum)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 79 | 74.84
+| 0046 |[Permutations](src/main/ruby/g0001_0100/s0046_permutations)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 62 | 89.60
 
 ### Udemy
 
@@ -879,6 +918,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/ruby/g0101_0200/s0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 68 | 78.44
 | 0007 |[Reverse Integer](src/main/ruby/g0001_0100/s0007_reverse_integer)| Medium | Top_Interview_Questions, Math | 58 | 75.27
 | 0009 |[Palindrome Number](src/main/ruby/g0001_0100/s0009_palindrome_number)| Easy | Math | 83 | 74.19
 
@@ -889,28 +929,36 @@
 | 0003 |[Longest Substring Without Repeating Characters](src/main/ruby/g0001_0100/s0003_longest_substring_without_repeating_characters)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 94 | 85.62
 | 0020 |[Valid Parentheses](src/main/ruby/g0001_0100/s0020_valid_parentheses)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 53 | 90.52
 | 0005 |[Longest Palindromic Substring](src/main/ruby/g0001_0100/s0005_longest_palindromic_substring)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 117 | 98.63
+| 0049 |[Group Anagrams](src/main/ruby/g0001_0100/s0049_group_anagrams)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 154 | 83.69
 
 #### Udemy Binary Search
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0033 |[Search in Rotated Sorted Array](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 59 | 74.85
 
 #### Udemy Arrays
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 147 | 80.21
 | 0001 |[Two Sum](src/main/ruby/g0001_0100/s0001_two_sum)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 57 | 89.38
+| 0055 |[Jump Game](src/main/ruby/g0001_0100/s0055_jump_game)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 88 | 95.88
+| 0075 |[Sort Colors](src/main/ruby/g0001_0100/s0075_sort_colors)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 54 | 88.46
+| 0041 |[First Missing Positive](src/main/ruby/g0001_0100/s0041_first_missing_positive)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 130 | 65.63
 
 #### Udemy Two Pointers
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0042 |[Trapping Rain Water](src/main/ruby/g0001_0100/s0042_trapping_rain_water)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 69 | 80.74
 | 0015 |[3Sum](src/main/ruby/g0001_0100/s0015_3sum)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 659 | 83.74
 
 #### Udemy Famous Algorithm
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0053 |[Maximum Subarray](src/main/ruby/g0001_0100/s0053_maximum_subarray)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 125 | 81.22
 
 #### Udemy Sorting Algorithms
 
@@ -921,11 +969,16 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0074 |[Search a 2D Matrix](src/main/ruby/g0001_0100/s0074_search_a_2d_matrix)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 50 | 97.83
+| 0048 |[Rotate Image](src/main/ruby/g0001_0100/s0048_rotate_image)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 50 | 93.64
+| 0073 |[Set Matrix Zeroes](src/main/ruby/g0001_0100/s0073_set_matrix_zeroes)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Matrix, Big_O_Time_O(m\*n)_Space_O(1) | 59 | 100.00
+| 0056 |[Merge Intervals](src/main/ruby/g0001_0100/s0056_merge_intervals)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 103 | 74.70
 
 #### Udemy Linked List
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0114 |[Flatten Binary Tree to Linked List](src/main/ruby/g0101_0200/s0114_flatten_binary_tree_to_linked_list)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Big_O_Time_O(N)_Space_O(N) | 47 | 100.00
 | 0024 |[Swap Nodes in Pairs](src/main/ruby/g0001_0100/s0024_swap_nodes_in_pairs)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 59 | 76.00
 | 0021 |[Merge Two Sorted Lists](src/main/ruby/g0001_0100/s0021_merge_two_sorted_lists)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 66 | 59.01
 | 0025 |[Reverse Nodes in k-Group](src/main/ruby/g0001_0100/s0025_reverse_nodes_in_k_group)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 62 | 91.67
@@ -934,6 +987,11 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0094 |[Binary Tree Inorder Traversal](src/main/ruby/g0001_0100/s0094_binary_tree_inorder_traversal)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 56 | 84.00
+| 0102 |[Binary Tree Level Order Traversal](src/main/ruby/g0101_0200/s0102_binary_tree_level_order_traversal)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 66 | 76.43
+| 0104 |[Maximum Depth of Binary Tree](src/main/ruby/g0101_0200/s0104_maximum_depth_of_binary_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 55 | 96.72
+| 0124 |[Binary Tree Maximum Path Sum](src/main/ruby/g0101_0200/s0124_binary_tree_maximum_path_sum)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 71 | 98.00
+| 0098 |[Validate Binary Search Tree](src/main/ruby/g0001_0100/s0098_validate_binary_search_tree)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 68 | 70.23
 
 #### Udemy Trie and Heap
 
@@ -949,6 +1007,9 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/ruby/g0001_0100/s0070_climbing_stairs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 48 | 96.01
+| 0064 |[Minimum Path Sum](src/main/ruby/g0001_0100/s0064_minimum_path_sum)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 78 | 52.50
+| 0072 |[Edit Distance](src/main/ruby/g0001_0100/s0072_edit_distance)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 139 | 73.91
 | 0010 |[Regular Expression Matching](src/main/ruby/g0001_0100/s0010_regular_expression_matching)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 66 | 94.44
 
 #### Udemy Backtracking/Recursion
@@ -956,7 +1017,10 @@
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0022 |[Generate Parentheses](src/main/ruby/g0001_0100/s0022_generate_parentheses)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 43 | 100.00
+| 0039 |[Combination Sum](src/main/ruby/g0001_0100/s0039_combination_sum)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 79 | 74.84
+| 0078 |[Subsets](src/main/ruby/g0001_0100/s0078_subsets)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 63 | 70.43
 | 0017 |[Letter Combinations of a Phone Number](src/main/ruby/g0001_0100/s0017_letter_combinations_of_a_phone_number)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 49 | 93.94
+| 0046 |[Permutations](src/main/ruby/g0001_0100/s0046_permutations)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 62 | 89.60
 
 #### Udemy Bit Manipulation
 
@@ -974,6 +1038,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0053 |[Maximum Subarray](src/main/ruby/g0001_0100/s0053_maximum_subarray)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Big_O_Time_O(n)_Space_O(1) | 125 | 81.22
 
 #### Day 2 Array
 
@@ -985,6 +1050,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 147 | 80.21
 
 #### Day 4 Array
 
@@ -995,6 +1061,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0074 |[Search a 2D Matrix](src/main/ruby/g0001_0100/s0074_search_a_2d_matrix)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 50 | 97.83
 
 #### Day 6 String
 
@@ -1022,11 +1089,15 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0094 |[Binary Tree Inorder Traversal](src/main/ruby/g0001_0100/s0094_binary_tree_inorder_traversal)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 56 | 84.00
 
 #### Day 11 Tree
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/ruby/g0101_0200/s0102_binary_tree_level_order_traversal)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 66 | 76.43
+| 0104 |[Maximum Depth of Binary Tree](src/main/ruby/g0101_0200/s0104_maximum_depth_of_binary_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 55 | 96.72
+| 0101 |[Symmetric Tree](src/main/ruby/g0101_0200/s0101_symmetric_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 58 | 91.34
 
 #### Day 12 Tree
 
@@ -1042,6 +1113,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0098 |[Validate Binary Search Tree](src/main/ruby/g0001_0100/s0098_validate_binary_search_tree)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 68 | 70.23
 
 ### Data Structure II
 
@@ -1049,17 +1121,21 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/ruby/g0101_0200/s0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 68 | 78.44
 | 0015 |[3Sum](src/main/ruby/g0001_0100/s0015_3sum)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 659 | 83.74
 
 #### Day 2 Array
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0075 |[Sort Colors](src/main/ruby/g0001_0100/s0075_sort_colors)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 54 | 88.46
+| 0056 |[Merge Intervals](src/main/ruby/g0001_0100/s0056_merge_intervals)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Big_O_Time_O(n_log_n)_Space_O(n) | 103 | 74.70
 
 #### Day 3 Array
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0048 |[Rotate Image](src/main/ruby/g0001_0100/s0048_rotate_image)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Big_O_Time_O(n^2)_Space_O(1) | 50 | 93.64
 
 #### Day 4 Array
 
@@ -1085,6 +1161,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0049 |[Group Anagrams](src/main/ruby/g0001_0100/s0049_group_anagrams)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 154 | 83.69
 
 #### Day 9 String
 
@@ -1124,6 +1201,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/ruby/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Big_O_Time_O(N)_Space_O(N) | 71 | 91.78
 
 #### Day 16 Tree
 
@@ -1161,6 +1239,7 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0035 |[Search Insert Position](src/main/ruby/g0001_0100/s0035_search_insert_position)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 48 | 97.37
 
 #### Day 2 Two Pointers
 
@@ -1214,11 +1293,13 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0046 |[Permutations](src/main/ruby/g0001_0100/s0046_permutations)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 62 | 89.60
 
 #### Day 12 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0070 |[Climbing Stairs](src/main/ruby/g0001_0100/s0070_climbing_stairs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 48 | 96.01
 
 #### Day 13 Bit Manipulation
 
@@ -1229,11 +1310,52 @@
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/ruby/g0101_0200/s0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 68 | 78.44
 
 ## Algorithms
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|--------
+| 0136 |[Single Number](src/main/ruby/g0101_0200/s0136_single_number)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Data_Structure_II_Day_1_Array, Algorithm_I_Day_14_Bit_Manipulation, Udemy_Integers, Big_O_Time_O(N)_Space_O(1) | 68 | 78.44
+| 0131 |[Palindrome Partitioning](src/main/ruby/g0101_0200/s0131_palindrome_partitioning)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(N\*2^N)_Space_O(2^N\*N) | 1192 | 63.64
+| 0128 |[Longest Consecutive Sequence](src/main/ruby/g0101_0200/s0128_longest_consecutive_sequence)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Union_Find, Big_O_Time_O(N_log_N)_Space_O(1) | 135 | 91.36
+| 0124 |[Binary Tree Maximum Path Sum](src/main/ruby/g0101_0200/s0124_binary_tree_maximum_path_sum)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 71 | 98.00
+| 0121 |[Best Time to Buy and Sell Stock](src/main/ruby/g0101_0200/s0121_best_time_to_buy_and_sell_stock)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Data_Structure_I_Day_3_Array, Dynamic_Programming_I_Day_7, Level_1_Day_5_Greedy, Udemy_Arrays, Big_O_Time_O(N)_Space_O(1) | 147 | 80.21
+| 0114 |[Flatten Binary Tree to Linked List](src/main/ruby/g0101_0200/s0114_flatten_binary_tree_to_linked_list)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(N) | 47 | 100.00
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/ruby/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Data_Structure_II_Day_15_Tree, Big_O_Time_O(N)_Space_O(N) | 71 | 91.78
+| 0104 |[Maximum Depth of Binary Tree](src/main/ruby/g0101_0200/s0104_maximum_depth_of_binary_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Programming_Skills_I_Day_10_Linked_List_and_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(H) | 55 | 96.72
+| 0102 |[Binary Tree Level Order Traversal](src/main/ruby/g0101_0200/s0102_binary_tree_level_order_traversal)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_1_Day_6_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 66 | 76.43
+| 0101 |[Symmetric Tree](src/main/ruby/g0101_0200/s0101_symmetric_tree)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_2_Day_15_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 58 | 91.34
+| 0098 |[Validate Binary Search Tree](src/main/ruby/g0001_0100/s0098_validate_binary_search_tree)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_I_Day_14_Tree, Level_1_Day_8_Binary_Search_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(log(N)) | 68 | 70.23
+| 0096 |[Unique Binary Search Trees](src/main/ruby/g0001_0100/s0096_unique_binary_search_trees)| Medium | Top_100_Liked_Questions, Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Dynamic_Programming_I_Day_11, Big_O_Time_O(n)_Space_O(1) | 57 | 61.54
+| 0094 |[Binary Tree Inorder Traversal](src/main/ruby/g0001_0100/s0094_binary_tree_inorder_traversal)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Data_Structure_I_Day_10_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 56 | 84.00
+| 0084 |[Largest Rectangle in Histogram](src/main/ruby/g0001_0100/s0084_largest_rectangle_in_histogram)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Stack, Monotonic_Stack, Big_O_Time_O(n_log_n)_Space_O(log_n) | 197 | 98.25
+| 0079 |[Word Search](src/main/ruby/g0001_0100/s0079_word_search)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 56 | 100.00
+| 0078 |[Subsets](src/main/ruby/g0001_0100/s0078_subsets)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Algorithm_II_Day_9_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 63 | 70.43
+| 0076 |[Minimum Window Substring](src/main/ruby/g0001_0100/s0076_minimum_window_substring)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Big_O_Time_O(s.length())_Space_O(1) | 175 | 93.33
+| 0075 |[Sort Colors](src/main/ruby/g0001_0100/s0075_sort_colors)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Data_Structure_II_Day_2_Array, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 54 | 88.46
+| 0074 |[Search a 2D Matrix](src/main/ruby/g0001_0100/s0074_search_a_2d_matrix)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Data_Structure_I_Day_5_Array, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_8, Level_2_Day_8_Binary_Search, Udemy_2D_Arrays/Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 50 | 97.83
+| 0073 |[Set Matrix Zeroes](src/main/ruby/g0001_0100/s0073_set_matrix_zeroes)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Matrix, Udemy_2D_Arrays/Matrix, Big_O_Time_O(m\*n)_Space_O(1) | 59 | 100.00
+| 0072 |[Edit Distance](src/main/ruby/g0001_0100/s0072_edit_distance)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 139 | 73.91
+| 0070 |[Climbing Stairs](src/main/ruby/g0001_0100/s0070_climbing_stairs)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Algorithm_I_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_2, Level_1_Day_10_Dynamic_Programming, Udemy_Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 48 | 96.01
+| 0064 |[Minimum Path Sum](src/main/ruby/g0001_0100/s0064_minimum_path_sum)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Dynamic_Programming_I_Day_16, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 78 | 52.50
+| 0062 |[Unique Paths](src/main/ruby/g0001_0100/s0062_unique_paths)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Combinatorics, Algorithm_II_Day_13_Dynamic_Programming, Dynamic_Programming_I_Day_15, Level_1_Day_11_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 50 | 91.92
+| 0056 |[Merge Intervals](src/main/ruby/g0001_0100/s0056_merge_intervals)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Data_Structure_II_Day_2_Array, Level_2_Day_17_Interval, Udemy_2D_Arrays/Matrix, Big_O_Time_O(n_log_n)_Space_O(n) | 103 | 74.70
+| 0055 |[Jump Game](src/main/ruby/g0001_0100/s0055_jump_game)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Algorithm_II_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_4, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 88 | 95.88
+| 0053 |[Maximum Subarray](src/main/ruby/g0001_0100/s0053_maximum_subarray)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Divide_and_Conquer, Data_Structure_I_Day_1_Array, Dynamic_Programming_I_Day_5, Udemy_Famous_Algorithm, Big_O_Time_O(n)_Space_O(1) | 125 | 81.22
+| 0051 |[N-Queens](src/main/ruby/g0001_0100/s0051_n_queens)| Hard | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(N!)_Space_O(N) | 82 | 88.89
+| 0049 |[Group Anagrams](src/main/ruby/g0001_0100/s0049_group_anagrams)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Data_Structure_II_Day_8_String, Programming_Skills_II_Day_11, Udemy_Strings, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 154 | 83.69
+| 0048 |[Rotate Image](src/main/ruby/g0001_0100/s0048_rotate_image)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Matrix, Data_Structure_II_Day_3_Array, Programming_Skills_II_Day_7, Udemy_2D_Arrays/Matrix, Big_O_Time_O(n^2)_Space_O(1) | 50 | 93.64
+| 0046 |[Permutations](src/main/ruby/g0001_0100/s0046_permutations)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Algorithm_I_Day_11_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 62 | 89.60
+| 0045 |[Jump Game II](src/main/ruby/g0001_0100/s0045_jump_game_ii)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Greedy, Algorithm_II_Day_13_Dynamic_Programming, Dynamic_Programming_I_Day_4, Big_O_Time_O(n)_Space_O(1) | 68 | 75.23
+| 0042 |[Trapping Rain Water](src/main/ruby/g0001_0100/s0042_trapping_rain_water)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Dynamic_Programming_I_Day_9, Udemy_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 69 | 80.74
+| 0041 |[First Missing Positive](src/main/ruby/g0001_0100/s0041_first_missing_positive)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Udemy_Arrays, Big_O_Time_O(n)_Space_O(n) | 130 | 65.63
+| 0039 |[Combination Sum](src/main/ruby/g0001_0100/s0039_combination_sum)| Medium | Top_100_Liked_Questions, Array, Backtracking, Algorithm_II_Day_10_Recursion_Backtracking, Level_2_Day_20_Brute_Force/Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n+2^n) | 79 | 74.84
+| 0035 |[Search Insert Position](src/main/ruby/g0001_0100/s0035_search_insert_position)| Easy | Top_100_Liked_Questions, Array, Binary_Search, Algorithm_I_Day_1_Binary_Search, Binary_Search_I_Day_2, Big_O_Time_O(log_n)_Space_O(1) | 48 | 97.37
+| 0034 |[Find First and Last Position of Element in Sorted Array](src/main/ruby/g0001_0100/s0034_find_first_and_last_position_of_element_in_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_5, Big_O_Time_O(log_n)_Space_O(1) | 60 | 77.52
+| 0033 |[Search in Rotated Sorted Array](src/main/ruby/g0001_0100/s0033_search_in_rotated_sorted_array)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_11, Level_2_Day_8_Binary_Search, Udemy_Binary_Search, Big_O_Time_O(log_n)_Space_O(1) | 59 | 74.85
+| 0032 |[Longest Valid Parentheses](src/main/ruby/g0001_0100/s0032_longest_valid_parentheses)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Stack, Big_O_Time_O(n)_Space_O(1) | 73 | 82.61
+| 0031 |[Next Permutation](src/main/ruby/g0001_0100/s0031_next_permutation)| Medium | Top_100_Liked_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 58 | 82.76
 | 0025 |[Reverse Nodes in k-Group](src/main/ruby/g0001_0100/s0025_reverse_nodes_in_k_group)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_13_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(k) | 62 | 91.67
 | 0024 |[Swap Nodes in Pairs](src/main/ruby/g0001_0100/s0024_swap_nodes_in_pairs)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Data_Structure_II_Day_12_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 59 | 76.00
 | 0023 |[Merge k Sorted Lists](src/main/ruby/g0001_0100/s0023_merge_k_sorted_lists)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Heap_Priority_Queue, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(k\*n\*log(k))_Space_O(log(k)) | 76 | 87.95

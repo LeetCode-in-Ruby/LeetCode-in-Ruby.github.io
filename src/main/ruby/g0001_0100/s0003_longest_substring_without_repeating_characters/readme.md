@@ -45,8 +45,6 @@ Given a string `s`, find the length of the **longest substring** without repeati
 ## Solution
 
 ```ruby
-﻿# #Medium #Top_100_Liked_Questions #Top_Interview_Questions #String #Hash_Table #Sliding_Window
-
 # @param {String} s
 # @return {Integer}
 def length_of_longest_substring(s)
